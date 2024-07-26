@@ -1,4 +1,4 @@
-#Blogging Website Project
+# Blogging Website Project
 
 ## Introduction
 This project involves the creation of a dynamic and user-friendly blogging website. The website is built using WordPress and a custom theme tailored to our specific needs. It leverages Elementor for intuitive design and the Post Grid plugin for organized content display.
